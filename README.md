@@ -21,5 +21,4 @@ https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-s
 
 
 this is a single class plugin for our style guide displaying structure
-
-add a webhook for discord??>
+WEB HOOKED FOR DISCORD https://discord.gg/JNnCW5M
