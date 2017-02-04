@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stormheart-tutorial">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="stormheart-tutorial.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="stormheart-plugin" />
+    </root>
+  </artifact>
+</component>

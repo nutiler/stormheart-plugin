@@ -1,0 +1,3 @@
+<template>
+  <input-field default="net.stormheart.tutorial">IJ_BASE_PACKAGE</input-field>
+</template>

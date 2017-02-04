@@ -1,0 +1,14 @@
+# STORMHEART NETWORK 2017
+# WWW.STORMHEART.NET
+
+name: STORMHEART-pluginStyle
+main: net.stormheart
+version: 1.0
+authors:
+  - josh@stormheart.net
+  - ben@stormheart.net
+  - klemms@stormheart.net
+description: www.stormheart.net plugin development guide.
+commands:
+  pluginStyle:
+    description: Default style guide for plugin development.
