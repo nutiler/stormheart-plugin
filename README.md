@@ -1,6 +1,6 @@
 # [![Stormheart](http://www.stormheart.net/assets/images/sh_github_logo.png)](http://www.stormheart.net)
 
-[![Travis](https://img.shields.io/travis/Nutiler/stormheart-plugin.svg?style=flat-square)](https://travis-ci.org/Nutiler/stormheart-plugin.svg?branch=master)
+[![Travis](https://img.shields.io/travis/Nutiler/stormheart-plugin.svg?style=flat-square)](https://travis-ci.org/Nutiler/stormheart-plugin)
 [![Spigot](https://img.shields.io/badge/dependencies-spigot-yellow.svg?style=flat-square)](https://hub.spigotmc.org/javadocs/spigot/)
 [![Stormheart](https://img.shields.io/badge/network-stormheart-FF5555.svg?style=flat-square)](http://www.stormheart.net) 
 
@@ -17,13 +17,13 @@ New projects should be cloned from this repository and changed accordingly.
 ## Compiling
 
 ```
-$ mvn clean install -U
-$ build artifacts 
+  $ mvn clean install -U
+  $ build artifacts 
 ```
 
 *Alternatively using IntelliJ, right-click __pom.xml__ and run __maven__ then select __reimport__ for the included dependencies.*
 
-*Information about the server we are running can be found here. Java Development Kit 8 u50+ is the recommended environment for production.*
+*Information about the server we are running can be found [here](SERVER.md). Java Development Kit 8 u50+ is the recommended environment for production.*
 
 ## Plugin.yml
 
