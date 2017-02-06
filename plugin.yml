@@ -2,7 +2,7 @@
 # WWW.STORMHEART.NET
 
 name: STORMHEART-pluginStyle
-main: net.stormheart.pluginStyle
+main: net.stormheart.pluginStyle.pluginStyle
 version: 1.0
 prefix: STORMHEART
 description: Plugin development guide.
