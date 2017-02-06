@@ -4,8 +4,16 @@
 [![Spigot](https://img.shields.io/badge/dependencies-spigot-yellow.svg?style=flat-square)](https://hub.spigotmc.org/javadocs/spigot/)
 [![Stormheart](https://img.shields.io/badge/network-stormheart-FF5555.svg?style=flat-square)](http://www.stormheart.net) 
 
-Stormheart is... (I'll write this next update.)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+STORMHEART is a heavily modified Minecraft server. 
+Our team strives to have the most immersive survival experience for players.
+
+Created in 2016 it is a fairly new server, the original project [CORE](http://www.corruptioncraft.org) was abandoned late 2012.
+During the closure the community has helped come together to help create a new experience for incomming players.
+We are built off the framework [Spigot](https://github.com/SpigotMC), it is a modification of the original [CraftBukkit](https://github.com/Bukkit) project, just made more efficient.
+Now, Spigot is an implementation and continuation of the Bukkit API which has been the leading API for Minecraft servers.
+STORMHEART also features the [HeroCraft API](https://github.com/Herocraft) for it's well designed class based system.
+We are so glad this project has gained such a large following, and we will continue to add new features for players to explore.
+
 
 *See [plugin style guide](README.md) for the resource standard settings on [eclipse](https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml) and [intellij](https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
 ).*
@@ -28,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   Disk 240GB Samsung EVO 840
 ```
 
-*Information about the server we are running can be found here. Java Development Kit 8 u50+ is the recommended environment for production.*
+*The server address is `mc.stormheart.net` and is located in Montreal, Canada. Java Development Kit 8 u50+ is the recommended environment for production.*
 
 ## Resources
 
