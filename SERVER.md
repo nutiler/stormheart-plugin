@@ -7,11 +7,11 @@
 STORMHEART is a heavily modified Minecraft server. 
 Our team strives to have the most immersive survival experience for players.
 Created in 2016 it is a fairly new server, the original project [CORE](http://www.corruptioncraft.org) was abandoned late 2012.
-During the closure the community has helped come together to help create a new experience for incomming players.
+During the closure, the community has helped come together to help create a new experience for incoming players.
 
-This project is built off the framework [Spigot](https://github.com/SpigotMC), it is a modification of the original [CraftBukkit](https://github.com/Bukkit) project, just made more efficient.
+This project is built on the framework [Spigot](https://github.com/SpigotMC), it is a modification of the original [CraftBukkit](https://github.com/Bukkit) project, just made more efficient.
 Now, Spigot is an implementation and continuation of the Bukkit API which has been the leading API for Minecraft servers.
-STORMHEART also features the [HeroCraft API](https://github.com/Herocraft) for it's well designed class based system.
+STORMHEART also features the [HeroCraft API](https://github.com/Herocraft) for it's well-designed class based system.
 We are so glad this project has gained such a large following, and we will continue to add new features for players to explore.
 
 
